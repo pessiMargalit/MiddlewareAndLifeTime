@@ -1,0 +1,16 @@
+1.
+["In controller transient 77fa8c9b-b5e7-4f45-9a39-73a405ff1b4e",
+"In controller scoped 6ae0ba34-df86-4d4d-a4f7-3b0be86a8e79",
+"In controller singleton 4f9ee7a4-1175-4f72-9642-6cef1026090f",
+"In service transient d7820f4f-2171-4090-a517-0455b38ed1db",
+"In service scoped 6ae0ba34-df86-4d4d-a4f7-3b0be86a8e79",
+"In service singleton 4f9ee7a4-1175-4f72-9642-6cef1026090f"]
+
+
+2.
+["In controller transient f7142dff-b52c-4c10-971b-3f85114e9f9d",
+"In controller scoped 4440ca8b-f9e3-417d-b610-9519cae7b638",
+"In controller singleton 4f9ee7a4-1175-4f72-9642-6cef1026090f",
+"In service transient 957f9c2c-651a-434f-bf32-318f53244672",
+"In service scoped 4440ca8b-f9e3-417d-b610-9519cae7b638",
+"In service singleton 4f9ee7a4-1175-4f72-9642-6cef1026090f"]

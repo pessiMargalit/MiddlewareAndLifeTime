@@ -1,0 +1,45 @@
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\appsettings.Development.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\appsettings.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.exe
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.deps.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.runtimeconfig.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.dll
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.pdb
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.csproj.AssemblyReference.cache
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.GeneratedMSBuildEditorConfig.editorconfig
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.AssemblyInfoInputs.cache
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.AssemblyInfo.cs
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.csproj.CoreCompileInputs.cache
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.MvcApplicationPartsAssemblyInfo.cache
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\staticwebassets.build.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\staticwebassets.development.json
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\scopedcss\bundle\MiddleWares.styles.css
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.dll
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\refint\MiddleWares.dll
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.pdb
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.genruntimeconfig.cache
+E:\פסי מרגלית\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\ref\MiddleWares.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\appsettings.Development.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\appsettings.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.exe
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.deps.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.runtimeconfig.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\ref\MiddleWares.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\MiddleWares.pdb
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.csproj.AssemblyReference.cache
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.GeneratedMSBuildEditorConfig.editorconfig
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.AssemblyInfoInputs.cache
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.AssemblyInfo.cs
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.csproj.CoreCompileInputs.cache
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.MvcApplicationPartsAssemblyInfo.cache
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\staticwebassets.build.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\staticwebassets.development.json
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\scopedcss\bundle\MiddleWares.styles.css
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\ref\MiddleWares.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.pdb
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.genruntimeconfig.cache
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\ServiceLifetime.dll
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\bin\Debug\net6.0\ServiceLifetime.pdb
+H:\API_Core\MiddleWares\MiddleWares\MiddleWares\obj\Debug\net6.0\MiddleWares.csproj.CopyComplete

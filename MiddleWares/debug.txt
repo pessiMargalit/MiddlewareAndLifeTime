@@ -1,0 +1,16 @@
+GET
+localhost:5295
+23/11/2022 09:20:08
+'MiddleWares.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.1\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MiddleWares.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Net.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+GET
+localhost:5295
+23/11/2022 09:20:10
+GET
+localhost:5295
+23/11/2022 09:20:10
+GET
+localhost:5295
+23/11/2022 09:20:10
+GET
+localhost:5295

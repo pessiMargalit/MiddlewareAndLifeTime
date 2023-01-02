@@ -1,0 +1,12 @@
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\bin\Debug\net6.0\ServiceLifetime.deps.json
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\bin\Debug\net6.0\ServiceLifetime.dll
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\bin\Debug\net6.0\ref\ServiceLifetime.dll
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\bin\Debug\net6.0\ServiceLifetime.pdb
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.csproj.AssemblyReference.cache
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.GeneratedMSBuildEditorConfig.editorconfig
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.AssemblyInfoInputs.cache
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.AssemblyInfo.cs
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.csproj.CoreCompileInputs.cache
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.dll
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ref\ServiceLifetime.dll
+H:\API_Core\MiddleWares\MiddleWares\ServiceLifetime\obj\Debug\net6.0\ServiceLifetime.pdb
